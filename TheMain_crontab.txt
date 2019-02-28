@@ -1,0 +1,3 @@
+00-50/10 *       * * * /home/guettler/Crontab_WEB_RADAR/Phase_001_wget_DHMZ.sh
+00-50/10 *       * * * /home/guettler/Crontab_WEB_RADAR/Phase_001_wget_ARSO.sh
+    00   6       * * * /home/guettler/Crontab_WEB_RADAR/Phase_002_wget_ECMWF_email.sh
